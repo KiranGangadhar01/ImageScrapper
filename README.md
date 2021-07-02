@@ -1,1 +1,1 @@
-# iNeauronImageScrapper
+# ImageScrapper
